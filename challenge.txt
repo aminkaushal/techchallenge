@@ -1,0 +1,3 @@
+Welcome to CircleCI Tech Challenge 
+
+The aim of this task was for you to use CircleCI to build, test a simple application.
